@@ -6,7 +6,7 @@ package offer;
  * @author: Bean
  * @create: 2023-08-19 01:37
  **/
-public class of56 {
+public class of56b {
     public int singleNumber(int[] nums) {
         int sum = 0;
         int m = 1;
